@@ -18,6 +18,8 @@ A native Windows desktop application to manage **Proxmox VE** servers from a cle
 
 <!-- Group view -->
 ![Group view](docs/screenshot-groups.png)
+<!-- Shell View -->
+![Group view](docs/Sell-from-Desktop-Client.png)
 
 ---
 
